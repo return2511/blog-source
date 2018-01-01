@@ -1,7 +1,8 @@
 ---
 title: 余生，请多指教
 date: 2017-12-28 19:33:45
-tags:
+tags: [情书,lover] 
+categories: 生活
 ---
 
 ![lover](http://ocdgyglqe.bkt.clouddn.com/6L2A0044.jpg?imageMogr2/quality/50)<br>
