@@ -4,6 +4,11 @@ date: 2016-07-29 17:40:28
 tags: [php排序,array_multisort]
 categories: php
 ---
+
+> php array_multisort 方法的探究和使用。
+
+<!-- more -->
+
 #### 定义和用法
 > by w3school 的解释
 >

@@ -5,6 +5,17 @@ tags: [情书,lover]
 categories: 生活
 ---
 
+> 记得当时年纪小 
+> 你爱谈天我爱笑 
+> 有一回我们并肩坐在桃树下 
+> 风在林梢鸟儿在叫 
+> 我们不知怎样睡着了
+> 梦里花落知多少 
+> 
+> —— 三毛《梦里花落知多少》
+
+<!-- more -->
+
 ![lover](http://ocdgyglqe.bkt.clouddn.com/6L2A0044.jpg?imageMogr2/quality/50)<br>
 <html>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2080139&auto=1&height=66"></iframe>
