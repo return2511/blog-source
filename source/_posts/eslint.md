@@ -36,7 +36,9 @@ categories: tools
 ```
 npm install eslint -g
 ```
+
 #### sublime安装插件
+
 这里要安装两个插件
 
 - SublimeLinter
@@ -45,11 +47,13 @@ npm install eslint -g
 ps：网上大部分教程都是说要安装一个叫做：SublimeLinter-contrib-eslint的插件，但是我在sublime的package install 里面没有找到这个插件，是不是改名了，这块我也不清楚，反正我是安装了SublimeLinter-eslint，这个插件可以用的。
 
 #### 配置
+
 这里简单说一下，其实SublimeLinter只是一个linter的壳子，sublime兼容了很多linter，都需要在sublimeLinter里使用，所以配置也是在其内部配置。
 
 据说要有两个配置
 
 ##### sublimeLinter集成配置
+
 ```
 // 摘抄自网上  链接：https://www.jianshu.com/p/e826e13c67ec
 {
@@ -115,7 +119,7 @@ ps：网上大部分教程都是说要安装一个叫做：SublimeLinter-contrib
 ##### 规则配置
 配置的一份规则文件仅供参考(摘抄至网络)，保存到代码根目录，文件名为.eslintrc。
 
-官方文档：[http://eslint.org/docs/rules/](http://eslint.org/docs/rules/) 
+官方文档：[http://eslint.org/docs/rules/](http://eslint.org/docs/rules/)
 ```
 //安装gulp-eslint libraries.io/npm/gulp-eslint
 {
@@ -197,7 +201,7 @@ ps：网上大部分教程都是说要安装一个叫做：SublimeLinter-contrib
 - 灵异的是自己的mac把两个插件安装完之后，没有进行任何配置，重启sublime，竟然报做了，可以正常使用了。。。。。不知为啥。我确定两件事
   + sublimeLinter绝对干净，没有任何配置
   + 我没找到本地的.eslintrc文件
- 
+
 猜测是不是之前貌似在别的项目中，package包安装使用过了eslint，只是自己没有用到，忽略了。反正就是很灵异能用了。后期如果发现了原因，再过来更新吧。
 
 ### 小结
